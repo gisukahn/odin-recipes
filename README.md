@@ -1,2 +1,2 @@
 # odin-recipes
-This is my Second repos
+This is my Second repos. Just trying to learn how github works...
